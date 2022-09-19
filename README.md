@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/Preview/ComposeLockBanner.png" />
+</p>
 
 # Compose Lock
 
