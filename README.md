@@ -17,16 +17,16 @@ Add the JitPack repository to your build.gradle file
 
 ```gradle
 allprojects {
-	repositories {
-		...
-		maven { url 'https://jitpack.io' }
-	}
+    repositories {
+    ...
+    maven { url 'https://jitpack.io' }
+    }
 }
 ```
 Add Compose Lock to the dependency
 ```gradle
 dependencies {
-	implementation 'com.github.mrhwsn:ComposeLock:1.0.0'
+    implementation 'com.github.mrhwsn:ComposeLock:1.0.0'
 }
 ```
     
