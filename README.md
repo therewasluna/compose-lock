@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Preview/ComposeLockBanner.png" width="70%"  />
+  <img src="/Preview/ComposeLockBanner.png" width="100%"  />
 </p>
 
 # Compose Lock 
