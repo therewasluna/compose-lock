@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="/Preview/ComposeLockBanner.png" />
+  <img src="/Preview/ComposeLockBanner.png" width="70%"  />
 </p>
 
-# Compose Lock
-
+# Compose Lock 
 compose lock is a pattern lock library based on jetpack compose framework
 
 
@@ -68,4 +67,9 @@ ComposeLock(
 
 
 ## Preview
+<p float="left">
+  <img src="/Preview/preview1.gif" width="32%" />
+  <img src="/Preview/preview2.gif" width="32%" />
+  <img src="/Preview/preview3.gif" width="32%" />
+</p>
 
