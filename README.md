@@ -18,8 +18,8 @@ Add the JitPack repository to your build.gradle file
 ```gradle
 allprojects {
     repositories {
-    ...
-    maven { url 'https://jitpack.io' }
+        ...
+        maven { url 'https://jitpack.io' }
     }
 }
 ```
