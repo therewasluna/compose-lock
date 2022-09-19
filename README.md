@@ -36,7 +36,7 @@ use ComposeLock fuction in composeable scope
 
 ```kotlin
 ComposeLock(
-    modifier = Modifier.fillMaxSize(),
+    modifier = Modifier.fillMaxWidth(),
     dimension = 4,
     sensitivity = 100f,
     dotsColor = Color.Black,
