@@ -28,7 +28,7 @@ allprojects {
 Add Compose Lock to the dependency
 ```gradle
 dependencies {
-    implementation 'com.github.mrhwsn:ComposeLock:1.0.0'
+    implementation 'implementation 'com.github.AbyssSpecter:ComposeLock:1.0.0'
 }
 ```
     
